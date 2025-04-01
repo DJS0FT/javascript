@@ -1,2 +1,3 @@
 Snippet version 3 in branch1
 Дополнение от commit 4 в branch1
+Дополнение от commit 5 в branch1
